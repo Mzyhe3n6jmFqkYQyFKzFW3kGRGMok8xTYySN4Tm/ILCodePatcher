@@ -6,7 +6,6 @@ using System.Linq;
 using System.Reflection.Emit;
 using System.Reflection;
 using System.IO;
-using ILCodePatcher.ConfigLib;
 
 namespace ILCodePatcher.Patch
 {
